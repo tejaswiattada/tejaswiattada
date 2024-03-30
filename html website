@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            my resume
+        </title>
+    </head>
+</html>
+<body>
+    <centre><h1>Renuka</h1></centre>
+
+    <img style= border-radius:50% src="D:\my phone\Pictures\Instagram\IMG_20220525_233758_557.webp" height="100" width="100">
+    <hr>
+    <h1>EDUCATION</h1>
+    <table border="2pix">
+        <tr>
+            <th>degree</th>
+            <th>institution</th>
+            <th> year</th>
+    
+        </tr>
+        <tr>
+          <td>bsc[MCCS]</td>
+          <td>Aditya degree college for women</td>
+          <td>2021-2024</td>
+        </tr>
+        
+        <tr>
+                <td>MPC</td>
+                <td>sri chaitanya junior college </td>
+                <td>2019-2021</td>
+        </tr>
+    </table>
+    <hr>
+    <h1>SKILLS</h1>
+    <ul>
+        <h2>programming languages</h2>
+        <li>python</li>
+        <li>java</li>
+        <h2>web development</h2>
+        <li>html</li>
+        <li>css</li>
+        <li>javascript</li>
+    </ul>
+
+
+
+</body>
+</html>
